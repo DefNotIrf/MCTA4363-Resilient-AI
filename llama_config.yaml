@@ -1,0 +1,7 @@
+n_gpu_layers: 99
+temperature: 1.0
+top_p: 0.95
+top_k: 64
+n_predict: 600
+ctx_size: 8192
+mmproj: mmproj-gemma4-E4B-mmproj.gguf
