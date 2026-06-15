@@ -148,15 +148,6 @@ Organised by: UNESCO · Governments of France & India · Sustainable AI Coalitio
 
 ---
 
-## 👥 Team Visca Barca
-
-| Member | Role |
-|---|---|
-| Muhammad Irfan | Lead researcher — compression pipeline, all experiments, model submission |
-| Syaz | Project coordination, documentation, baseline evaluation |
-
----
-
 ## 📄 License
 
 Base model license: [Gemma Terms of Use](https://ai.google.dev/gemma/terms)
